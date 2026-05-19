@@ -1,6 +1,6 @@
 <div align="center">
 
-#    SIMULADOR DE MISIÓN LUNAR
+#  🚀  SIMULADOR DE MISIÓN LUNAR 🔭
 ##   Artemis II Mission Simulator
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=NASA+Mission+Simulation;Orekit+Orbital+Propagation;LEO+Trajectory+System;Flight+Dynamics+Software" />
@@ -16,11 +16,23 @@
 
 </div>
 
-# 🌌 Descripción del Proyecto
+#  🚀 Descripción del Proyecto 🌖
 
 El **Simulador de Misión Lunar Artemis II** es un proyecto académico orientado al desarrollo de una plataforma de simulación espacial basada en tecnologías reales utilizadas en dinámica orbital y misiones aeroespaciales.
 
 El objetivo principal es recrear procesos fundamentales de navegación y propagación orbital mediante el uso de la librería **Orekit**, permitiendo simular trayectorias espaciales, telemetría y futuras operaciones relacionadas con misiones lunares.
+
+# 👨‍🚀 TRIPULACIÓN |ROL|
+
+| Osvaldo Rafael Díaz Castro |CDR|
+
+| Emmanuel Jesús Suriel Minaya |REQ|
+
+| Franklin Isaac Serrano Rodríguez |ARCH|
+
+| Jesús Polanco  |FDO|
+
+| John Mario Ventura Contreras |CAPCOM|
 
 ---
 
@@ -34,7 +46,7 @@ El objetivo principal es recrear procesos fundamentales de navegación y propaga
 
 ---
 
-#  Tecnologías Utilizadas
+#  💻Tecnologías Utilizadas
 
 | Tecnología | Uso |
 |------------|-----|
@@ -46,7 +58,7 @@ El objetivo principal es recrear procesos fundamentales de navegación y propaga
 
 ---
 
-#  Estructura del Proyecto
+#  🗂️ Estructura del Proyecto
 
 ```plaintext
 Simulador-Mision-Lunar/
