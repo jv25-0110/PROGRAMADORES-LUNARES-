@@ -209,12 +209,4 @@ mvn clean package
 
 sin errores ni advertencias críticas.
 
-# 📌 Estado del Proyecto
 
-🟢 En desarrollo
-
-Entrega correspondiente al **Entregable #4** del Proyecto Simulador de Misión Lunar Artemis II.
-
-# 📜 Licencia
-
-Proyecto desarrollado con fines exclusivamente académicos para la asignatura Ingeniería de Software.
