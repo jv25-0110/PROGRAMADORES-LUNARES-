@@ -95,7 +95,6 @@ programadores-lunares/
 - JavaFX SDK.
 - Conexión para descargar dependencias Maven.
 
----
 
 # ⚙️ Compilación
 
@@ -103,9 +102,6 @@ Desde la raíz del proyecto ejecutar:
 
 ```bash
 mvn clean package
-```
-
----
 
 # ▶️ Ejecución
 
@@ -113,7 +109,7 @@ Ejecutar:
 
 ```bash
 mvn javafx:run
-```
+
 
 o ejecutar la clase principal desde el IDE.
 
@@ -132,7 +128,6 @@ La interfaz permite visualizar:
 
 También incluye un panel de telemetría con información en tiempo real.
 
----
 
 # 🎮 Controles del Simulador
 
@@ -152,7 +147,6 @@ Continúa la animación desde el punto actual.
 
 Detiene temporalmente la simulación.
 
----
 
 # ⚙️ Parámetros Configurables
 
@@ -163,17 +157,11 @@ El usuario puede modificar:
 - Altitud de la órbita inicial.
 - Velocidad de simulación.
 
----
-
 # 🚀 Velocidad de Simulación
 
 La interfaz permite acelerar la simulación desde:
 
-```
 1× hasta 1000×
-```
-
----
 
 # 📊 Telemetría
 
@@ -186,8 +174,6 @@ Durante la simulación se muestran:
 - Distancia a la Tierra.
 - Estado de la misión.
 
----
-
 # 📸 Evidencias
 
 La carpeta **Evidencias** contiene:
@@ -198,15 +184,11 @@ La carpeta **Evidencias** contiene:
 - Resultados obtenidos.
 - Material utilizado para la demostración.
 
----
-
 # 📄 Documentación
 
 Toda la documentación técnica se encuentra en la carpeta:
 
-```
 Docs/
-```
 
 Incluye:
 
@@ -218,27 +200,20 @@ Incluye:
 - Decisiones de arquitectura.
 - Spike TLI.
 
----
-
 # 📦 Compilación Exitosa
 
 El proyecto debe compilar correctamente mediante:
 
 ```bash
 mvn clean package
-```
 
 sin errores ni advertencias críticas.
-
----
 
 # 📌 Estado del Proyecto
 
 🟢 En desarrollo
 
 Entrega correspondiente al **Entregable #4** del Proyecto Simulador de Misión Lunar Artemis II.
-
----
 
 # 📜 Licencia
 
