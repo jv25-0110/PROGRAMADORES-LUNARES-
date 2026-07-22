@@ -6,8 +6,6 @@
 
 ## Artemis II Mission Simulator
 
-Simulador académico desarrollado en Java utilizando Orekit y JavaFX para recrear las principales fases de una misión lunar tipo Artemis II.
-
 </div>
 
 ---
